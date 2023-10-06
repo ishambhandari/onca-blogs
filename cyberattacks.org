@@ -1,0 +1,14 @@
+#+title: Cyberattacks
+
+* Different types of Cyber attacks
+A cyber attack refers to any deliberate and malicious attempt to compromise the security, integrity, confidentiality or availability of computer systems, digital devices or networks. Attackers launch cyberattacks for all sorts from reasons like petty theft to acts of war. Cyber attacks can disrupt, damage and even destroy businesses. According to IBM, the average cost of a data breach is USD 4.35 million which includes costs of discovering and responsing to the violation, downtime, lost revenue and long-term reputational damage to a business and its brand.
+
+** Common Types of Cyber attacks
+
+*** Phising attacks
+Phising is a type of cyber attack where attackers send deceptive emails or messages that appear legitimate to trick recipients into revealing sensitive information such as password, credit card and/or other personal data. About 90% of the cyber attacks start with phising. As security hardware and software has become increasingly difficult to infiltrate, the cyber criminals have started attacking the users. Amoung all of the UK business that were attacked in 2022, 83% say the attack was phising.
+*** Password-attacks
+Password-related attacks include attackers attempting to guess or crack password using techniquies like brute-force attack, dictionary attack or credentail suffering. Weak and reused passwords are often the target. In today's digital age computers are more powerful than ever, weak passwords can be cracked within minutes. This is why it is recommended to use long alpha numeric passwords.
+*** Ransomware attacks
+Ransomware is a type of malware that encrypts all of the victim's data and demands some ransom in exchange for the decryption key. This has become increasingly common and can cause significant financial and reputational damage to any organization. 20% of ransomware costs are attributed to reputational damage. Ransomware is intrinsically linked to phishing. The latest ransomware statistics make it clear that phishing is the primary delivery method of ransomware attacks.
+***
