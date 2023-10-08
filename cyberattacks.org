@@ -12,4 +12,7 @@ Password-related attacks include attackers attempting to guess or crack password
 *** Ransomware attacks
 Ransomware is a type of malware that encrypts all of the victim's data and demands some ransom in exchange for the decryption key. This has become increasingly common and can cause significant financial and reputational damage to any organization. 20% of ransomware costs are attributed to reputational damage. Ransomware is intrinsically linked to phishing. The latest ransomware statistics make it clear that phishing is the primary delivery method of ransomware attacks.
 *** Denial of service and Distributed denial of service
+:PROPERTIES:
+:ID:       35f01e6f-5d2d-453d-9e39-8dbe293281b3
+:END:
 A denial of service (DOS) attack is a type of attack where the attacker aims to render a computers/servers or devices unavailable by flooding it traffic until the normal traffic or users are unable to access the server making it a denial of service. If a server can handle 100 users per second, an attackers might generate 100 request by themselves making other normal users unable to make any legitimate request. Denial of service can be easily handled by just blocking the IP address of computer with unusual behaviour which is why major damage done in this cohort is by something called Distributed Denial of service (DDoS). DDoS attempts to do the same thing as DoS but instead of one computer/device it uses thousands of device across the globe to attack which makes it impossible to differentiate legitimate and malicious requests.
