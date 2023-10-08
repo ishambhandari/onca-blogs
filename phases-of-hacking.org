@@ -1,0 +1,26 @@
+#+title: Phases Of Hacking
+* Phases of Ethical Hacking
+The term hacking is divided into two types depending upon the intention behind the process; white hat  and black hat. White hat hacking refers to ethical hacking which is done at target's descretion to find the vulnerabilites where as black hat hacking is done for malicious intent. Hacking is not a single process. There are mainly five phases of hacking.
+
+** Reconnaissance
+This is the first step of hacking which is also called Footprinting and information gathering phase. In this phase, hackers try to gather information about the target system, network and organization. Hackers usually collection information on networks, hosts and people involved(employees, types of users/customers/clients etc.) There are two types of footprinting.
+*** Active
+Active information gather is the process of collecting more information about the target and network by direcly interacting with the target. Active information gathering can use Operating system fingerprinting, port scanning, DNS enumeration etc. It is illegal to do this without authorization from the target.
+
+*** Passive
+The purpose of passive information gathering is to collect information about the target network without establishing direct interaction with the target. In this approach, information is collected through websites, social media platforms, news and other similar platforms.
+
+** Scanning
+This is the second phase in ethical hacking where the hacker uses all the information gathered from the first phase and tries to find vulnerabilites in the target. There are many different types of scan like scanning for open and unprotected, vulnerability scan which is usually done with the automated tools to find any weakness in the system, network mapping which is the process to find topology of the network, routers, firewalls, servers etc. These informations are very important to decide on what approach to take and what to attack as a hacker.
+
+** Access Gain
+This is the phase where the actual "hacking" is done. Hacker uses all the information obtained and analyzed from the previous two phases to launch a full-fledged attack on the system or network the ethical hacker is trying to infiltrate. Hacker exploits all the vulnerabilities and gains control of the system. Now, the hacker can read/steal/delete/corrupt all the data that he has access to.
+** Maintaining the access
+Usually, hacking is done with a purpose. Advertising that "you have been hacked" or stealing/corrupting data immediately might not be the purpose of the hack. Mostly, hacker will try to maintain their access until the job is finished. The job might be continuously getting data from the organization, steal a specific information, prevent something from happening, escalate priviledge to a more powerful role to install backdoor etc.
+
+** Clearing or covering the tracks
+This is the final step of the hacking process. Hackers need to cover their tracks to avoid detection while entereing and leaving the network or server. The sign of a successful simulated cyber attack is if the security system never realized that an attack took place altogether. The process of clearing or covering tracks might include:
+ - Deleting logs
+ - Corrupting logs
+ - Unistalling applications and backdoor
+ - Removing traces of activity performed etc.
