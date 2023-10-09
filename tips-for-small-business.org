@@ -13,4 +13,6 @@ Files should be regularly backedup. If a cyber attack happens, data could be com
 ** Encrypt key information
 If your organization deals with sensitive data like credit cards, bank accounts, medical records etc. consider using a strong encryption to keep those information secured. Encryption is designed with a worst-case scenario in mind: even if your data is stolen, it would be useless to the hacker as they wouldn't have the keys to decrypt the data and decipher the information. That's a sensible security precaution in a world where billions of records are exposed every year.
 ** Access control
-Within your organization,
+Within your organization, restrict the number of people with access to critial and important information. Access should be only given to someone who needs it. Access to unnecessary people might sometime cause disaster either intentionally or accidentally. Set out a plan which outlines which individuals have access to certain levels of information, so that roles and accountability are clear to all involved.
+** Physical security and Insurance
+Secure physical access to your premises, servers, and networking equipment to prevent unauthorized physical access. Also consider cyber insurance to mitigate the financial impact of a cyber attack.
