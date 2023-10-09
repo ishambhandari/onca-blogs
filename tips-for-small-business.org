@@ -1,0 +1,16 @@
+#+title: Tips For Small Business
+
+* Cyber security tips for small businesses
+Cybersecurity is crucial for small businesses, as they are often targeted by cyber criminals because of their percieved vulnerability. According to forbes, small businesses are more frequent targets of cyber attack than larger companies. A cyber attack can have a devastating impact on businesses. In fact, 60% of small businesses that fall victim to an attack, shuts down within six months after the breach. Here are some of the cybersecurity tips for small businesses.
+** Employee training
+Employees are the most vulnerable for cyber attacks. The statistics might vary according to industries but high proportion of data breaches are caused by insiders who either maliciously or carelessly give cyber criminals access to your networks. Employees should understand the basics of phishing, social engineering, and the importance of strong passwords.
+** Use strong passwords
+With computers getting powerful, weak passwords are very easy to crack. Encourange the use of strong, unique passwords for all accounts. Consider using a password manager to generate strong and complex passwords.
+** Software updates and Antiviruses
+Keep all your software updated. Vendors regularly deploy updates to patch security as well as other issues. Choose antivirus and other security software to install on your end devices and servers. This will help prevent and remove known viruses and malware.
+** Regular backup
+Files should be regularly backedup. If a cyber attack happens, data could be compromised or deleted. Most businesses relies on data to run therefore this area should not be overlooked. Make use of automated backup programs and application that automatically copies your file to storage. Choose a program that allows you to automate and shedule your backup.
+** Encrypt key information
+If your organization deals with sensitive data like credit cards, bank accounts, medical records etc. consider using a strong encryption to keep those information secured. Encryption is designed with a worst-case scenario in mind: even if your data is stolen, it would be useless to the hacker as they wouldn't have the keys to decrypt the data and decipher the information. That's a sensible security precaution in a world where billions of records are exposed every year.
+** Access control
+Within your organization,
