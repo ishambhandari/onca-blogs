@@ -1,0 +1,16 @@
+#+title: What To Look For Cybersecurity Company
+
+* What to look for in a cyber security company
+For many small companies, cybersecurity is not thier main focus or concern. It is quite common to need help with cybersecurity afterall you have other things to worry about, like running the business. When looking for a cybersecurity company, there are several important factors to consider to ensure that you choose a reputable and effective partner. Cybersecurity is crucial for protecting your organization's sensitive data and systems, so making the right choice is essential. Here are some key factors to look for:
+** Expertise and Experience
+Make sure the company has a good track record in IT field. Research the company's reputation, contact references to inquire about their past experience and service. Also look for certifications and industry-specific credentials like CISSP(Certified Information Systems Security Professional) or CISA(Certified Information System Auditor
+** Avoid extremenly cheap options and mass vendors
+You may want to avoid companies that installs something and disappears. Whether a threat has been detected or you are having trouble with something else, you may want to find a company that offers support. Choosing a company that helps you to navigate threat, find solutions and ultimately takes the hassel of cybersecurity and IT out of the way.
+** Collaboration and Communication
+While searching for a company, make sure they can integrate with your team. Good collaboration across teams is always helpful to avoid any misunderstandings or mistakes. A good company also practices proper communication and give updates and information in accessible, understandable and timely manner.
+** Desire to maintain long term  relationships
+Your specialized security needs will be best addressed by someone you can work with for years to come. So, make sure the chosen firm is stable and willing to be your partner far into the future.
+** Compliance and Regulations
+Verify that the company is knowledgeable about relevant cybersecurity regulations and compliance standards, such as GDPR, HIPAA, or PCI DSS, depending on your industry.Ensure they can help you achieve and maintain compliance.
+** Growth potential
+As your company grows, you need a cyber security company that grows with you. Focus on companies that has a great growth potential.
