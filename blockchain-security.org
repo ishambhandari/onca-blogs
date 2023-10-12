@@ -1,0 +1,27 @@
+#+title: What is blockchain technology and how secure is it?
+
+* What is blockchain?
+Block chain is a distributed ledger technology (DLT) used to record transaction across multiple computers. It is a foundation for cryptocurrencies like Bitcoin and Etherium but its application goes beyond just digital currencies. Blockchain is a decentralized ledger system that is duplicated and distributed across whole network of computers. Blockchain technology stores information in "blocks". Each block can hold certain amount of data, when the block reaches its capacity, it is chained to the previous full block, creating a chain of data. This is why it is called the block chain technology.
+** Types of blockchain
+*** Private Blockchain:
+To particiapte in private blockchain network, an invitation is required. Users must be validated by network's central administrator. Private blockchain use a PoA(Proof of Authority) consensus and are often used in internal and business environment.
+
+*** Public Blockchain
+Public blockchain is transparent. Transaction is labeled as "decentralized" which means anyone can participate in validating network transaction. The software code is also open source (available to the public). Some of the examples are Bitcoin, Etherium etc.
+*** Consortium Blockchain
+Consortium blockchains consist of known participants preapproved by a central authority to participate in the consensus within a blockchain network. This approach allows the network to be distributed and partly-decentralized.Consortium blockchains are best suited for use between known parties, banking, supply chain management, or Internet of Things (IoT) applications.
+
+* Blockchain security
+Blockchain technology is very different from the traditional network. It is based on the concepts of cryptography, decentralisation and consensus. There is however, a misconception that it is fully secured. Looking at the past cyber attacks on blockchain technology, we can confirm that it has some vulnerabilities which could be exploited. Although the technology's security is very strong on paper, attackers usually go after the users who are very vulnerable. Attackers resort to classic methods like phishing or social engineering to obtain the private encryption keys. Other methods could be attacking the user's computer to steal information or exploiting the code base that is used to develop the blockchain.
+According to IBM, the decentralised Autonomous Organization, a venture capital funding operating through decentralised blockchain was robbed of more than 60 million worth of digital currency by just exploiting the code. A theft of nearly 73 million USD worth of customer's bitcoin from one of the largest cyptocurrency exchanges from a Hongkong based company called Bitfinex. Bithumb, one of the largest Etherium and bitcoin based cyptocurrency exchanges was recently hacked, the hacker's compromised 30,000 user's data and stole 870,000 worth of bitcoin.
+
+The other ways to attack blockchain might be as follows.
+** Routing attacks:
+Block chain depends on data transfers performed in real time. Hackers with many resources can intercept data on its way to the ISP(Internet Service Provider).
+** 51% attack:
+Large-scale public blockchains use a massive amount of computing power to perform mining. Group of malicious miners can seize over the control of the ledger if they can manager to acquire more than 50% of blockchain network's mining power. However, private blockchains aren't suceptible to this attack.
+** Sybil attack:
+Sybil attacks flood the target network with an overwhelming amount of false identities, crashing the system. This attack is named after a book that deals with multiple personality disorder.
+
+* Conclusion
+In conclusion, while blockchain technology offers a robust and fairly secure framework for various applications, it is not immune to vulnerabilities. Companies and individuals must remain vigilant and proactive in implementing proper security protocols to address these weaknesses. As the technology continues to evolve, the responsibility to maintain security measures becomes increasingly crucial to ensure its enduring success and resilience in an ever-changing digital landscape.
