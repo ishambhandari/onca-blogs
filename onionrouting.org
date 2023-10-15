@@ -1,2 +1,3 @@
 #+title: Onionrouting
 * What is onion routing and how does it work?
+Onion routing is a peer to peer (P2P) overlay network for anonymous communication over a computer network. In this network, messages are encrypted in layers of encryption. The concept of onion routing was originally developed by U.S. Naval Research Laboratory in the 1990s and it has since evolved into popular networks like TOR.
