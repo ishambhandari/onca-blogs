@@ -1,0 +1,11 @@
+#+title: Dnstunneling
+
+* What is DNS?
+The Domain Name System (DNS) is like the internet's translator. It turns easy-to-remember website names, like "www.example.com," into the actual internet addresses, like "27.8.0.1." Without it, we'd have to remember lots of confusing numbers just to visit websites. DNS makes the internet user-friendly and accessible, helping us get where we want to go with just a simple web address. It's the unsung hero that makes the internet a breeze to navigate.
+DNS works through a process where a user's device sends a DNS query to a DNS resolver or a DNS server. The DNS resolver/server then looks up the domain name and returns the corresponding IP address, allowing the user's device to connect to the intended website or service.
+
+* What is DNS tunneling?
+DNS tunneling is a technique that encodes the data from other program or protocols into DNS queries and responses. It is used to bypass network security measures and exfiltrate data or perform malicious activities by encapsulating non-DNS traffic within DNS packets. DNS traffic is often allowed to pass through firewalls and security filters without deep inspection, making it an attractive method for covert communication or data exfiltration.
+
+* How DNS tunnelling works?
+The attacker registers a domain such as "malicioussite.com". This domain name points to the attacker's server where all the malicious software and malware is setup. The attacker also infects a client's computer behind company's or organization's firewall. Usually in a company's policy, DNS requests are allowed to move in and out of the firewall freely. The infected computer is allowed to send a query to a DNS resolver. The DNS resolver routes the query to the attacker's server. A connection is now established between the client and the attacker through DNS resolver. This connection also knows as tunnel can be used to steal and exfiltrate data without getting detected. Since there is no direct connection between the victim and the attacker, it is very difficult to trace it back to the attacker during the investigation process.

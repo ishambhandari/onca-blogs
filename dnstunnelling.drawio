@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2023-10-16T09:28:41.653Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.55" etag="LeLPabh-Xax0rc9t_Qsh" version="22.0.4" type="device">
+  <diagram name="Page-1" id="QC-I7C5MziZU3aROPoab">
+    <mxGraphModel dx="906" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_k3jYSvs1beDBNWsFYiP-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
+          <mxGeometry x="570" y="148" width="34.72" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="_k3jYSvs1beDBNWsFYiP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_k3jYSvs1beDBNWsFYiP-2" target="_k3jYSvs1beDBNWsFYiP-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_k3jYSvs1beDBNWsFYiP-2" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_Wireless.svg;" parent="1" vertex="1">
+          <mxGeometry x="120" y="142" width="72.62" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="_k3jYSvs1beDBNWsFYiP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_k3jYSvs1beDBNWsFYiP-3" target="_k3jYSvs1beDBNWsFYiP-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_k3jYSvs1beDBNWsFYiP-3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="124" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="x8uQZqd3cXNiQRUT-ogY-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
+          <mxGeometry x="590" y="106" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="x8uQZqd3cXNiQRUT-ogY-2" value="DNS resolver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="164" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8uQZqd3cXNiQRUT-ogY-3" value="Infected computer inside the network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="101.31" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8uQZqd3cXNiQRUT-ogY-4" value="Attacker&#39;s infrastructure with tunnelling program&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="230" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8uQZqd3cXNiQRUT-ogY-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="200" as="sourcePoint" />
+            <mxPoint x="200" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8uQZqd3cXNiQRUT-ogY-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="200" as="sourcePoint" />
+            <mxPoint x="460" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8uQZqd3cXNiQRUT-ogY-8" value="DNS request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="211.31" y="142" width="88.69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8uQZqd3cXNiQRUT-ogY-9" value="DNS request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="142" width="88.69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8uQZqd3cXNiQRUT-ogY-10" value="DNS response" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="200" width="88.69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8uQZqd3cXNiQRUT-ogY-11" value="DNS response" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="88.69" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
